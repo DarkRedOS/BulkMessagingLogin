@@ -1,3 +1,13 @@
-# BulkMessagingLogin
 
-A login xml page for an app who can send messages in bulk to registered users
+# Bulk messaging login
+
+Login page for website
+
+## Installation
+
+Install from this link.
+
+```bash
+  https://github.com/DarkRedOS/APK
+```
+Done
